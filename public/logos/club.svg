@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="New Vision Club">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061440"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+    <linearGradient id="gr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#059669"/></linearGradient>
+  </defs>
+  <circle cx="60" cy="60" r="55" fill="url(#b)"/>
+  <circle cx="60" cy="60" r="55" fill="none" stroke="url(#gr)" stroke-width="4"/>
+  <path d="M14 60C30 34 90 34 106 60 90 86 30 86 14 60z" fill="#fff"/>
+  <circle cx="60" cy="60" r="19" fill="url(#gr)"/>
+  <circle cx="60" cy="60" r="8" fill="#061440"/>
+  <circle cx="66" cy="54" r="3" fill="#fff"/>
+  <text x="60" y="108" text-anchor="middle" font-family="Consolas,monospace" font-weight="700" font-size="9" fill="#a7f3d0">&lt;NEW VISION/&gt;</text>
+</svg>
